@@ -38,7 +38,9 @@ This repository contains **TypeScript implementations** of classic Data Structur
 | 5 | Rod Cutting | Dynamic Programming (Unbounded Knapsack) | `O(n²)` | `O(n)` | `src/rod-cutting.ts` |
 
 algorithm-solutions-ts/
+
 │
+
 ├── src/
 │ ├── flood-fill.ts # Problem 1: DFS-based grid traversal
 │ ├── trapping-rain-water.ts # Problem 2: Two-pointer water calculation
