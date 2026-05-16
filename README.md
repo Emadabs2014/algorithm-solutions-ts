@@ -4,16 +4,16 @@ A comprehensive, strictly-typed TypeScript implementation of 7 fundamental algor
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [📌 Project Overview](#-project-overview)
-- [📊 Problems Summary](#-problems-summary)
+- [ Problems Summary](#-problems-summary)
 - [📁 Project Structure](#-project-structure)
 - [🛠️ Installation & Setup](#️-installation--setup)
-- [🚀 Usage](#-usage)
-- [📘 Detailed Problem Breakdown](#-detailed-problem-breakdown)
+- [ Usage](#-usage)
+- [ Problem Statements](#-problem-statements)
 - [📈 Complexity Analysis](#-complexity-analysis)
-- [👨‍ Author](#-author)
+- [👨‍💻 Author](#-author)
 
 ---
 
