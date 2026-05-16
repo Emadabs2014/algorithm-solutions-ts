@@ -1,0 +1,22 @@
+{
+  "name": "algorithm-solutions-ts",
+  "version": "1.0.0",
+  "description": "TypeScript solutions for 7 algorithmic challenges",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc && node dist/index.js"
+  },
+  "keywords": [
+    "typescript",
+    "algorithms",
+    "data-structures"
+  ],
+  "author": "Isak",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
